@@ -1,0 +1,15 @@
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\BlogSide.DataAccessLayer.dll.config
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\BlogSide.DataAccessLayer.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\BlogSide.DataAccessLayer.pdb
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\BlogSide.DataEntities.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\BlogSide.DataEntities.pdb
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\BlogSide.DataEntities.dll.config
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\obj\Debug\BlogSide.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\obj\Debug\BlogSide.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\obj\Debug\BlogSide.DataAccessLayer.csproj.CopyComplete
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\obj\Debug\BlogSide.DataAccessLayer.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataAccessLayer\obj\Debug\BlogSide.DataAccessLayer.pdb

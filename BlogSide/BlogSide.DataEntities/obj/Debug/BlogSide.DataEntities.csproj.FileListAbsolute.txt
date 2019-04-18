@@ -1,0 +1,12 @@
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\bin\Debug\BlogSide.DataEntities.dll.config
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\bin\Debug\BlogSide.DataEntities.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\bin\Debug\BlogSide.DataEntities.pdb
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\bin\Debug\EntityFramework.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\bin\Debug\EntityFramework.xml
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\obj\Debug\BlogSide.DataEntities.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\obj\Debug\BlogSide.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\obj\Debug\BlogSide.DataEntities.csproj.CopyComplete
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\obj\Debug\BlogSide.DataEntities.dll
+C:\Users\Developer\source\repos\BlogSide\BlogSide.DataEntities\obj\Debug\BlogSide.DataEntities.pdb
